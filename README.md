@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile! 👋
 
-![Banner Image](https://pplx-res.cloudinary.com/image/upload/v1727357241/user_uploads/mbwlkrjrf/my-sty-photo.jpg)
+<div align="center">
+  <img src="https://pplx-res.cloudinary.com/image/upload/v1727357241/user_uploads/mbwlkrjrf/my-sty-photo.jpg" alt="Banner Image" width="480" height="360">
+</div>
 <div align="center">
   <a href="https://in.linkedin.com/in/sangram18">
     <img src="https://img.shields.io/badge/LinkedIn-Sangram%20Keshari%20Ghose-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge">
