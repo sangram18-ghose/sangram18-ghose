@@ -1,16 +1,23 @@
-## Hi there 👋
+## Welcome to My GitHub Profile! 👋
 
-<!--
-**sangram18-ghose/sangram18-ghose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](https://your-banner-image-url.com)
 
-Here are some ideas to get you started:
+I'm Sangram Keshari Ghose, a passionate Computer Science and Engineering student at Gandhi Institute of Engineering and Technology University. I'm on a journey to become a skilled software developer and data enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+- **Bachelor of Technology** in Computer Science and Engineering
+- Gandhi Institute of Engineering and Technology University, Gunupur, Odisha, India
+- GPA: 7.27
+- Expected Graduation: June 2027
+
+## 💻 Technical Skills
+
+```python
+skills = {
+    "Languages": ["Python", "SQL", "Java", "JavaScript", "C"],
+    "Frameworks": ["TensorFlow", "Django", "Flask", "Spring Boot", "NodeJS"],
+    "Tools": ["Docker", "Git", "PostgreSQL", "MySQL"],
+    "Platforms": ["AWS", "GCP", "Azure", "Linux", "Windows"],
+    "Soft Skills": ["Collaborative Problem-Solving", "Adaptive Learning & Analysis", "Effective Project Management"]
+}
