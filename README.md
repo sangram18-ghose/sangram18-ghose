@@ -13,11 +13,8 @@ I'm Sangram Keshari Ghose, a passionate Computer Science and Engineering student
 
 ## 💻 Technical Skills
 
-```python
-skills = {
-    "Languages": ["Python", "SQL", "Java", "JavaScript", "C"],
-    "Frameworks": ["TensorFlow", "Django", "Flask", "Spring Boot", "NodeJS"],
-    "Tools": ["Docker", "Git", "PostgreSQL", "MySQL"],
-    "Platforms": ["AWS", "GCP", "Azure", "Linux", "Windows"],
-    "Soft Skills": ["Collaborative Problem-Solving", "Adaptive Learning & Analysis", "Effective Project Management"]
-}
+- **Languages**: Python, SQL, Java, JavaScript, C
+- **Frameworks**: TensorFlow, Django, Flask, Spring Boot, NodeJS
+- **Tools**: Git, PostgreSQL, MySQL
+- **Platforms**: AWS, GCP, Azure, Linux, Windows
+- **Soft Skills**: Collaborative Problem-Solving, "Adaptive Learning & Analysis, Effective Project Management
