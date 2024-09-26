@@ -61,7 +61,7 @@
       <ul>
         <li><strong>Tech Stack</strong>: Python, Django REST Framework, HTML, CSS, JavaScript, Bootstrap5, PostgreSQL, Visual Studio Code, Postman API, Git &amp; GitHub</li>
         <li><strong>Features</strong>: Info display, optimized database, security implementation</li>
-        <li><strong>GitHub</strong>: [Link to Repository]</li>
+        <li><strong>GitHub</strong>: https://github.com/sangram18-ghose/IPO-Web-Application-REST-API-Development</li>
       </ul>
     </project>
     <project>
@@ -69,7 +69,7 @@
       <ul>
         <li><strong>Tech Stack</strong>: HTML5, CSS3</li>
         <li><strong>Features</strong>: User-friendly design, wide product range, community features</li>
-        <li><strong>GitHub</strong>: [Link to Repository]</li>
+        <li><strong>GitHub</strong>: https://github.com/sangram18-ghose/Pet-Store-Website</li>
       </ul>
     </project>
     <project>
@@ -77,7 +77,7 @@
       <ul>
         <li><strong>Tech Stack</strong>: Python, Django, HTML, CSS, JavaScript</li>
         <li><strong>Features</strong>: User and admin portals, booking system, inventory management</li>
-        <li><strong>GitHub</strong>: [Link to Repository]</li>
+        <li><strong>GitHub</strong>: https://github.com/sangram18-ghose/Car_Rental_System</li>
       </ul>
     </project>
     <project>
@@ -85,7 +85,7 @@
       <ul>
         <li><strong>Tech Stack</strong>: Java, Spring Framework, HTML, CSS, PostgreSQL, Maven</li>
         <li><strong>Features</strong>: Secure login, employee/project management, task assignment, chat functionality</li>
-        <li><strong>GitHub</strong>: [Link to Repository]</li>
+        <li><strong>GitHub</strong>: https://github.com/sangram18-ghose/Employee-Task-FollowUp-Tracker</li>
       </ul>
     </project>
     <project>
@@ -93,7 +93,7 @@
       <ul>
         <li><strong>Tech Stack</strong>: HTML, CSS, JavaScript, API Integration</li>
         <li><strong>Features</strong>: Responsive design, product listings, shopping cart, checkout process</li>
-        <li><strong>GitHub</strong>: [Link to Repository]</li>
+        <li><strong>GitHub</strong>: https://github.com/sangram18-ghose/E-CommerceWebsite</li>
       </ul>
     </project>
   </projects>
