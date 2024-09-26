@@ -76,7 +76,12 @@ I'm Sangram Keshari Ghose, a passionate Computer Science and Engineering student
 
 ## 💼 Experience
 
-### Intern at XYZ Company (Month Year - Month Year)
+### Software Development Engineer Intern at Bluestock Fintech, Maharashtra (June 2024 - July 2024)
+- Fintech Software Solutions: Developed IPO web app and REST API using Python, Django, and PostgreSQL.
+- Full-Stack Development: Built responsive frontend, optimized database, implemented security.
+- Agile Practices: Participated in reviews, designed interfaces, and practiced agile methodologies.
+
+### Summer Intern at GIET University, Gunupur (June 2024 - July 2024)
 - Data Analysis and Automation: Automated data tasks with Python, boosting efficiency by 20%.
 - Database Management: Optimized MySQL data storage and retrieval for fintech applications.
 - Collaboration and Analysis: Collaborated on data solutions, analyzed datasets, and implemented Git.
