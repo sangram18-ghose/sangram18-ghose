@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 <div align="center">
-  <img src="https://pplx-res.cloudinary.com/image/upload/v1727357241/user_uploads/mbwlkrjrf/my-sty-photo.jpg" alt="Banner Image" width="480" height="360">
+  <img src="https://pplx-res.cloudinary.com/image/upload/v1727357241/user_uploads/mbwlkrjrf/my-sty-photo.jpg" alt="Banner Image" width="450" height="300">
 </div>
 <div align="center">
   <a href="https://in.linkedin.com/in/sangram18">
