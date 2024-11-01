@@ -29,7 +29,9 @@
   
   <experience>
     <h2>💼 Experience</h2>
-    <h3>Software Development Engineer Intern at Bluestock Fintech, Maharashtra (September 2024 - October 2024)</h3>
+    <h3>Software Development Engineer Intern at The Sunrise State, Andhra Pradesh (September 2024 - October 2024)</h3>
+  </ul>
+    <h3>Software Development Engineer Intern at Bluestock Fintech, Maharashtra (October 2024 - Present)</h3>
     <ul>
       <li>Fintech Software Solutions: Developed IPO web app and REST API using Python, Django, and PostgreSQL.</li>
       <li>Full-Stack Development: Built responsive frontend, optimized database, implemented security.</li>
