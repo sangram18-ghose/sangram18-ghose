@@ -29,7 +29,7 @@
   
   <experience>
     <h2>💼 Experience</h2>
-    <h3>Software Development Engineer Intern at The Sunrise State, Andhra Pradesh (October 2024 - Present)</h3>
+    <h3>Software Development Engineer Intern at The Sunrise State, Andhra Pradesh (October 2024 - December 2025)</h3>
   </ul>
     <h3>Software Development Engineer Intern at Bluestock Fintech, Maharashtra (September 2024 - October 2024)</h3>
     <ul>
