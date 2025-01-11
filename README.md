@@ -141,5 +141,3 @@
     <p>Thank you for visiting my profile. Happy coding! 🚀</p>
   </footer>
 </github-profile>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="62d4c2db-0b3b-4dda-bce0-94d7aa65ccb9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
